@@ -1,0 +1,36 @@
+@import '../../../assets/styles/variables.scss';
+
+.card{
+  width: 500px;
+  margin: auto;
+  margin-top: 20px;
+  background-color: red;
+  border: 2px solid white;
+  border-radius: 10px;
+}
+
+.mat-card-header{
+  background-color: white;
+  padding-top: 10px;
+  border-radius: 10px;
+  border: 2px solid white;
+  justify-content: center;
+}
+
+.mat-card-title{
+  text-transform: uppercase;
+  color: black;
+  font-weight: bold;
+  text-align: center;
+}
+
+.mat-card-image{
+  border-radius: 10px;
+  border: 2px solid white;
+  width: 250px;
+  height: 250px;
+  margin: auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  background-color: white;
+}

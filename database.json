@@ -1,0 +1,67 @@
+{
+  "pokemon": [
+    {
+      "name": "Chikorita",
+      "ability": "Overgrow",
+      " hiden-ability": "Leaf Guard",
+      "moves": ["Tackle", "Growl", "Razor Leaf", "Poison Powder"],
+      "evolutions": ["Bayleef", "Meganium"]
+    },
+    {
+      "name": "Bayleef",
+      "ability": "Overgrow",
+      " hiden-ability": "Leaf Guard",
+      "moves": ["Body Slam", "Synthesis", "Reflect", "Magical Leaf"],
+      "evolutions": ["Meganium"]
+    },
+    {
+      "name": "Meganium",
+      "ability": "Overgrow",
+      " hiden-ability": "Leaf Guard",
+      "moves": ["Solar Beam", "Natural Gift", "Aromatherapy", "Light Screen"],
+      "evolutions": []
+    },
+    {
+      "name": "Cyndaquil",
+      "ability": "Blaze",
+      " hiden-ability": "Flash Fire",
+      "moves": ["Ember", "Leer", "Tackle", "Smokescreen"],
+      "evolutions": ["Quilava", "Typhlosion"]
+    },
+    {
+      "name": "Quilava",
+      "ability": "Blaze",
+      " hiden-ability": "Flash Fire",
+      "moves": ["Quick Attack", "Flame Wheel", "Defense Curl", "Flamethrower"],
+      "evolutions": ["Typhlosion"]
+    },
+    {
+      "name": "Typhlosion",
+      "ability": "Blaze",
+      " hiden-ability": "Flash Fire",
+      "moves": ["Eruption", "Swift", "Burn Up", "Rollout"],
+      "evolutions": []
+    },
+    {
+      "name": "Totodile",
+      "ability": "Torrent",
+      " hiden-ability": "Sheer force",
+      "moves": ["Scratch", "Leer", "Water Gun", "Rage"],
+      "evolutions": ["Croconaw", "Feraligatr"]
+    },
+    {
+      "name": "Croconaw",
+      "ability": "Torrent",
+      " hiden-ability": "Sheer force",
+      "moves": ["Scary Face", "Bite", "Ice Fang", "Flail"],
+      "evolutions": ["Feraligatr"]
+    },
+    {
+      "name": "Feraligatr",
+      "ability": "Torrent",
+      " hiden-ability": "Sheer force",
+      "moves": ["Slash", "Hydro Pump", "Aqua Tail", "Crunch"],
+      "evolutions": []
+    }
+  ]
+}
